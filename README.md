@@ -20,7 +20,7 @@ The goal was to test my understanding of vector math, actor manipulation, and UE
 
 ## 🛠️ Technical Implementation
 
-**Engine**: Unreal Engine 5.x  
+**Engine**: Unreal Engine 5.6  
 **Language**: Blueprints (Visual Scripting)
 
 ### "Logic First" Approach
